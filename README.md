@@ -6,7 +6,7 @@ This project demonstrates one possible solution using `Python 3.6` with the in t
 <br/>
 
 ### How to run the script:
-In a env with a executable Python interpreter, run
+In a env with an executable Python interpreter, run
 ```
 pip install -r requirements.txt
 ``` 
@@ -18,7 +18,7 @@ After that, it's simply executing the `main.py` in this directory:
 python main.py
 ``` 
 
-which should open an interactive web GUI.
+which should open an interactive web GUI (have a look at the printed output for detailed instructions).
 
 <br/>
 
